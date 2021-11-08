@@ -557,3 +557,77 @@
 2021-11-07 14:42:09,314 [main] INFO eCommerce - Clicked On Save
 2021-11-07 14:42:09,315 [main] INFO eCommerce - validation started....
 2021-11-07 14:42:11,410 [main] INFO eCommerce - test case passed....
+2021-11-07 17:31:40,327 [main] INFO eCommerce - username is provided
+2021-11-07 17:31:40,884 [main] INFO eCommerce - Password is provided
+2021-11-07 17:36:22,021 [main] INFO eCommerce - email field cleard
+2021-11-07 17:36:22,565 [main] INFO eCommerce - User provided
+2021-11-07 17:36:22,748 [main] INFO eCommerce - password field cleard
+2021-11-07 17:36:22,860 [main] INFO eCommerce - Password provided
+2021-11-07 17:36:38,321 [main] INFO eCommerce - Login in Clicked
+2021-11-07 17:36:52,378 [main] INFO eCommerce - email field cleard
+2021-11-07 17:36:52,555 [main] INFO eCommerce - User provided
+2021-11-07 17:36:52,647 [main] INFO eCommerce - password field cleard
+2021-11-07 17:36:52,759 [main] INFO eCommerce - Password provided
+2021-11-07 17:36:54,155 [main] INFO eCommerce - Login in Clicked
+2021-11-07 17:36:56,193 [main] INFO eCommerce - Login Failed
+2021-11-07 17:37:01,234 [main] INFO eCommerce - email field cleard
+2021-11-07 17:37:01,408 [main] INFO eCommerce - User provided
+2021-11-07 17:37:01,487 [main] INFO eCommerce - password field cleard
+2021-11-07 17:37:01,737 [main] INFO eCommerce - Password provided
+2021-11-07 17:37:03,625 [main] INFO eCommerce - Login in Clicked
+2021-11-07 17:37:05,648 [main] INFO eCommerce - Login Failed
+2021-11-07 17:37:09,132 [main] INFO eCommerce - email field cleard
+2021-11-07 17:37:09,254 [main] INFO eCommerce - User provided
+2021-11-07 17:37:09,331 [main] INFO eCommerce - password field cleard
+2021-11-07 17:37:09,420 [main] INFO eCommerce - Password provided
+2021-11-07 17:37:11,398 [main] INFO eCommerce - Login in Clicked
+2021-11-07 17:37:13,429 [main] INFO eCommerce - Login Failed
+2021-11-07 17:37:37,468 [main] INFO eCommerce - username is provided
+2021-11-07 17:37:37,698 [main] INFO eCommerce - Password is provided
+2021-11-07 17:38:14,921 [main] INFO eCommerce - EmailID is provided
+2021-11-07 17:38:15,600 [main] INFO eCommerce - Password is provided
+2021-11-07 17:38:15,855 [main] INFO eCommerce - FirstName is provided
+2021-11-07 17:38:15,999 [main] INFO eCommerce - lastName is provided
+2021-11-07 17:38:16,116 [main] INFO eCommerce - Gender Is Selcetd
+2021-11-07 17:38:16,275 [main] INFO eCommerce - DOB is provided
+2021-11-07 17:38:16,886 [main] INFO eCommerce - CompanyName is provided
+2021-11-07 17:38:17,371 [main] INFO eCommerce - AdminContent is provided
+2021-11-07 17:38:21,381 [main] INFO eCommerce - Clicked On Save
+2021-11-07 17:38:21,381 [main] INFO eCommerce - validation started....
+2021-11-07 17:38:24,901 [main] INFO eCommerce - test case passed....
+2021-11-08 14:29:54,023 [main] INFO eCommerce - email field cleard
+2021-11-08 14:29:54,403 [main] INFO eCommerce - User provided
+2021-11-08 14:29:54,496 [main] INFO eCommerce - password field cleard
+2021-11-08 14:29:54,629 [main] INFO eCommerce - Password provided
+2021-11-08 14:30:09,016 [main] INFO eCommerce - Login in Clicked
+2021-11-08 14:30:17,853 [main] INFO eCommerce - email field cleard
+2021-11-08 14:30:17,994 [main] INFO eCommerce - User provided
+2021-11-08 14:30:18,080 [main] INFO eCommerce - password field cleard
+2021-11-08 14:30:18,200 [main] INFO eCommerce - Password provided
+2021-11-08 14:30:18,879 [main] INFO eCommerce - Login in Clicked
+2021-11-08 14:30:20,908 [main] INFO eCommerce - Login Failed
+2021-11-08 14:30:24,655 [main] INFO eCommerce - email field cleard
+2021-11-08 14:30:24,763 [main] INFO eCommerce - User provided
+2021-11-08 14:30:24,849 [main] INFO eCommerce - password field cleard
+2021-11-08 14:30:24,936 [main] INFO eCommerce - Password provided
+2021-11-08 14:30:25,545 [main] INFO eCommerce - Login in Clicked
+2021-11-08 14:30:27,575 [main] INFO eCommerce - Login Failed
+2021-11-08 14:30:29,228 [main] INFO eCommerce - email field cleard
+2021-11-08 14:30:29,449 [main] INFO eCommerce - User provided
+2021-11-08 14:30:29,520 [main] INFO eCommerce - password field cleard
+2021-11-08 14:30:29,607 [main] INFO eCommerce - Password provided
+2021-11-08 14:30:30,472 [main] INFO eCommerce - Login in Clicked
+2021-11-08 14:30:32,498 [main] INFO eCommerce - Login Failed
+2021-11-08 14:30:58,114 [main] INFO eCommerce - username is provided
+2021-11-08 14:30:58,398 [main] INFO eCommerce - Password is provided
+2021-11-08 14:31:30,032 [main] INFO eCommerce - EmailID is provided
+2021-11-08 14:31:30,204 [main] INFO eCommerce - Password is provided
+2021-11-08 14:31:30,331 [main] INFO eCommerce - FirstName is provided
+2021-11-08 14:31:30,494 [main] INFO eCommerce - lastName is provided
+2021-11-08 14:31:30,627 [main] INFO eCommerce - Gender Is Selcetd
+2021-11-08 14:31:30,848 [main] INFO eCommerce - DOB is provided
+2021-11-08 14:31:31,175 [main] INFO eCommerce - CompanyName is provided
+2021-11-08 14:31:31,531 [main] INFO eCommerce - AdminContent is provided
+2021-11-08 14:31:35,128 [main] INFO eCommerce - Clicked On Save
+2021-11-08 14:31:35,128 [main] INFO eCommerce - validation started....
+2021-11-08 14:31:35,845 [main] INFO eCommerce - test case passed....

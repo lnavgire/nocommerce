@@ -2,30 +2,30 @@
 <testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="nopCommerce" duration-ms="283412" started-at="2021-11-07T14:38:22 PST" finished-at="2021-11-07T14:43:06 PST">
+  <suite name="nopCommerce" duration-ms="276488" started-at="2021-11-08T14:27:40 IST" finished-at="2021-11-08T14:32:16 IST">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="228757" started-at="2021-11-07T14:38:22 PST" finished-at="2021-11-07T14:42:11 PST">
+    <test name="Test1" duration-ms="235496" started-at="2021-11-08T14:27:40 IST" finished-at="2021-11-08T14:31:35 IST">
       <class name="com.nopcommerce.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@1a3869f4]" name="setup" is-config="true" duration-ms="26190" started-at="2021-11-07T14:38:28 PST" finished-at="2021-11-07T14:38:54 PST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@1a3869f4]" name="setup" is-config="true" duration-ms="48304" started-at="2021-11-08T14:27:41 IST" finished-at="2021-11-08T14:28:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@1a3869f4]" name="loginTest" duration-ms="31723" started-at="2021-11-07T14:38:54 PST" finished-at="2021-11-07T14:39:26 PST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@1a3869f4]" name="loginTest" duration-ms="31691" started-at="2021-11-08T14:28:30 IST" finished-at="2021-11-08T14:29:01 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@1a3869f4]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-11-07T14:39:26 PST" finished-at="2021-11-07T14:39:26 PST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@1a3869f4]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-11-08T14:29:02 IST" finished-at="2021-11-08T14:29:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.nopcommerce.testCases.TC_LoginTest_001 -->
       <class name="com.nopcommerce.testCases.TC_LoginDDT_002">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="setup" is-config="true" duration-ms="8913" started-at="2021-11-07T14:39:26 PST" finished-at="2021-11-07T14:39:35 PST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="setup" is-config="true" duration-ms="18766" started-at="2021-11-08T14:29:02 IST" finished-at="2021-11-08T14:29:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="28962" started-at="2021-11-07T14:39:58 PST" data-provider="LoginData" finished-at="2021-11-07T14:40:27 PST">
+        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="33454" started-at="2021-11-08T14:29:42 IST" data-provider="LoginData" finished-at="2021-11-08T14:30:16 IST">
           <params>
             <param index="0">
               <value>
@@ -41,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="6667" started-at="2021-11-07T14:40:27 PST" data-provider="LoginData" finished-at="2021-11-07T14:40:34 PST">
+        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="4713" started-at="2021-11-08T14:30:16 IST" data-provider="LoginData" finished-at="2021-11-08T14:30:20 IST">
           <params>
             <param index="0">
               <value>
@@ -57,7 +57,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="5946" started-at="2021-11-07T14:40:34 PST" data-provider="LoginData" finished-at="2021-11-07T14:40:40 PST">
+        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="6661" started-at="2021-11-08T14:30:20 IST" data-provider="LoginData" finished-at="2021-11-08T14:30:27 IST">
           <params>
             <param index="0">
               <value>
@@ -73,7 +73,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="9321" started-at="2021-11-07T14:40:40 PST" data-provider="LoginData" finished-at="2021-11-07T14:40:49 PST">
+        <test-method status="PASS" signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="loginTest" duration-ms="4917" started-at="2021-11-08T14:30:27 IST" data-provider="LoginData" finished-at="2021-11-08T14:30:32 IST">
           <params>
             <param index="0">
               <value>
@@ -89,37 +89,37 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-11-07T14:40:49 PST" finished-at="2021-11-07T14:40:49 PST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_LoginDDT_002@ed9d034]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-11-08T14:30:32 IST" finished-at="2021-11-08T14:30:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.nopcommerce.testCases.TC_LoginDDT_002 -->
       <class name="com.nopcommerce.testCases.TC_AddCustomerTest_003">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@6121c9d6]" name="setup" is-config="true" duration-ms="15293" started-at="2021-11-07T14:40:49 PST" finished-at="2021-11-07T14:41:05 PST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@6121c9d6]" name="setup" is-config="true" duration-ms="12394" started-at="2021-11-08T14:30:32 IST" finished-at="2021-11-08T14:30:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@6121c9d6]" name="addNewCustomer" duration-ms="66348" started-at="2021-11-07T14:41:05 PST" finished-at="2021-11-07T14:42:11 PST">
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@6121c9d6]" name="addNewCustomer" duration-ms="50944" started-at="2021-11-08T14:30:44 IST" finished-at="2021-11-08T14:31:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@6121c9d6]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-11-07T14:42:11 PST" finished-at="2021-11-07T14:42:11 PST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@6121c9d6]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-11-08T14:31:35 IST" finished-at="2021-11-08T14:31:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.nopcommerce.testCases.TC_AddCustomerTest_003 -->
     </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="51853" started-at="2021-11-07T14:42:14 PST" finished-at="2021-11-07T14:43:06 PST">
+    <test name="Test2" duration-ms="36240" started-at="2021-11-08T14:31:40 IST" finished-at="2021-11-08T14:32:16 IST">
       <class name="com.nopcommerce.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@13eb8acf]" name="setup" is-config="true" duration-ms="17491" started-at="2021-11-07T14:42:14 PST" finished-at="2021-11-07T14:42:31 PST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@13eb8acf]" name="setup" is-config="true" duration-ms="10776" started-at="2021-11-08T14:31:40 IST" finished-at="2021-11-08T14:31:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@13eb8acf]" name="loginTest" duration-ms="34331" started-at="2021-11-07T14:42:31 PST" finished-at="2021-11-07T14:43:06 PST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@13eb8acf]" name="loginTest" duration-ms="25435" started-at="2021-11-08T14:31:51 IST" finished-at="2021-11-08T14:32:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@13eb8acf]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-11-07T14:43:06 PST" finished-at="2021-11-07T14:43:06 PST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@13eb8acf]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-11-08T14:32:16 IST" finished-at="2021-11-08T14:32:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
