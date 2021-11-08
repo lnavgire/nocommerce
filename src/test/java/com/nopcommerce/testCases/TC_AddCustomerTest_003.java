@@ -34,7 +34,7 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 			addcust.clickOnCustomersMenuitems();
 			addcust.clickOnAddNew();    //add new customer
 			
-			addcust.setEmail("ankithh@gmail.com");
+			addcust.setEmail("ankit1212@gmail.com");
 			logger.info("EmailID is provided");
 			addcust.setPassword("asgshsh123");
 			logger.info("Password is provided");
